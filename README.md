@@ -1,2 +1,2 @@
-# rop-emporium
-Solutions to the new Rop Emporium 2020 bins
+# ROP Emporium
+Solutions to the new ROP Emporium 2020 32bit and 64bit bins
